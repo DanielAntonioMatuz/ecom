@@ -1,0 +1,15 @@
+.amplify {
+  line-height: 75px;
+  padding-top: 0;
+}
+
+.amplify-2 {
+  line-height: 45px;
+  padding-top: 0;
+}
+
+@media screen and (max-width: 980px) {
+  .limite {
+    display: none;
+  }
+}
